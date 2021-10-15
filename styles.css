@@ -1,0 +1,112 @@
+body {
+    background-color:deepskyblue;
+}
+
+h1 {
+    color:maroon;
+}
+
+h2 {
+    color: blue;
+}
+
+div{
+    background-color:lightgreen; 
+    border-style: solid; 
+    border-color:black; 
+    border-radius: 6px;
+}
+
+ul {
+    color:midnightblue;
+}
+
+.shadow-text{
+    text-shadow: lightgray 1px 1px;
+}
+
+#large-font {
+    font-size: 25px;
+}
+
+#confirm {
+    border-color: darkblue;
+    border-style:inset;
+    background-color: whitesmoke;
+}
+
+#design {
+    border-radius: 5px;
+}
+
+#design2 {
+    border-radius: 5px;
+}
+
+#design3 {
+    border-radius: 5px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 35%;
+    background-color: gold;
+}
+th, td {
+    padding: 10px;
+    text-align: left; 
+    border-bottom-color: 2px solid red;
+}
+
+ul {
+    font-size: 20px;
+}
+
+tr:hover{
+    background-color: lightpink;
+}
+
+.announce {
+    color: red;
+    font-size: 20px;
+}
+
+.hov{
+    width: 795px;
+}
+
+.hov:hover{
+    background-color: rgb(179, 255, 0);
+}
+
+.hov2{
+    width: 440px;
+}
+
+.hov2:hover{
+    background-color:hotpink;
+}
+
+.hov3{
+    width: 495px;
+}
+
+.hov3:hover{
+    background-color: rgb(255, 72, 0);
+}
+
+.input {
+    border-style:double;
+    border-color:darkslategray;
+}
+
+.selections {
+    opacity: 90%;
+    font-style: inherit;
+    font-size: 20px;
+}
+
+.selections:hover{
+    font-size: 180%;
+}
+
